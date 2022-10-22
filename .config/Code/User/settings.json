@@ -1,0 +1,43 @@
+{
+    "editor.fontFamily": "Cascadia code",
+    "editor.fontSize": 16,
+    "editor.fontLigatures": true,
+    "editor.fontWeight": 350,
+    //VIM
+    "vim.vimrc.enable": true,
+    "vim.easymotion": true,
+    "vim.leader": " ",
+    "vim.autoindent": true,
+    "vim.camelCaseMotion.enable": true,
+    "vim.changeWordIncludesWhitespace": false,
+    "vim.useSystemClipboard": true,
+    // "vim.normalModeKeyBindings": [
+    //     {
+    //         "before": ["<C-v>"],
+    //         "after": ["<Leader>", "v"]
+    //     }
+    // ],
+    "workbench.iconTheme": "vscode-icons",
+    "git.ignoreMissingGitWarning": true,
+    "cmake.configureOnOpen": true,
+    "vsicons.dontShowNewVersionMessage": true,
+    "terminal.integrated.fontFamily": "monospace",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.insertSpaces": true,
+    "editor.minimap.enabled": false,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.defaultFormatter": "ms-vscode.cpptools",
+    "clang-format.executable": "/usr/bin/clang-format",
+    "keyboard.dispatch": "keyCode",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "editor.unicodeHighlight.allowedLocales": {
+        "ru": true
+    },
+    "editor.guides.indentation": false,
+}

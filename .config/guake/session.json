@@ -1,0 +1,20 @@
+{
+    "schema_version": 2,
+    "timestamp": 1661932258,
+    "workspace": {
+        "0": [
+            [
+                {
+                    "panes": [
+                        {
+                            "type": "term",
+                            "directory": "/"
+                        }
+                    ],
+                    "label": "uber@uberPC: /",
+                    "custom_label_set": false
+                }
+            ]
+        ]
+    }
+}
